@@ -34,8 +34,8 @@ mobile
 
 ### Links
 
-- Solution URL: [Solution URL here]()
-- Live Site URL: [Live site URL here]()
+- Solution URL: [Solution URL here](https://github.com/AlanLopRey/four-card-feature-section-master)
+- Live Site URL: [Live site URL here](https://alanloprey.github.io/four-card-feature-section-master/)
 
 ## My process
 
